@@ -5,7 +5,7 @@ And sayHello method will print 'Hello' followed by the name provided.
 
 1. Download the project & run the command --->  gradlew clean build
 2. Jar file will be created in /build/libs folder after the build success
-3. Run the jar file --- java -jar <path of the jar file>
+3. Run the jar file --- java -jar path of the jar file
   
 Example:
 
